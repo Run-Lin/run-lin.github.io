@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://run-lin.github.io/zh-CN/blog</id>
+    <title>Apache Uniffle Blog</title>
+    <updated>2022-08-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://run-lin.github.io/zh-CN/blog"/>
+    <subtitle>Apache Uniffle Blog</subtitle>
+    <icon>https://run-lin.github.io/zh-CN/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[to-be-released]]></title>
+        <id>/2022/08/23/to-be-released</id>
+        <link href="https://run-lin.github.io/zh-CN/blog/2022/08/23/to-be-released"/>
+        <updated>2022-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To be released]]></summary>
+        <content type="html"><![CDATA[<p>To be released</p>]]></content>
+    </entry>
+</feed>
